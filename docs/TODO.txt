@@ -1,0 +1,11 @@
+FIX
+	-Editing on NewContactPane while focus is table
+	-Grabbing photo address from AddressBook
+	-Update Button
+	-Phone number
+ADD
+	-Clear Button
+	-Save Message
+	-Owner Message
+	-Background
+	-Splash Screen
